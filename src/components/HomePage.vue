@@ -1,14 +1,16 @@
 <template>
+<v-container>
     <v-card class="mx-auto" elevation="24">
 
 <v-carousel hide-delimiters>
     <v-carousel-item src=" https://www.freepik.com/free-photo/restaurant-hall-classic-style-with-green-wooden-chairs-curtains_7608174.htm#fromView=search&page=1&position=5&uuid=6e459b67-76b1-45a1-88e9-bd421a090e04&query=restaurant+imagescover> "</v-carousel-item>
     <v-carousel-item src="https://www.freepik.com/free-photo/restaurant-hall-classic-style-with-green-wooden-chairs-curtains_7608174.htm#fromView=search&page=1&position=5&uuid=6e459b67-76b1-45a1-88e9-bd421a090e04&query=restaurant+images" cover> </v-carousel-item>
-    <v-carousel-item src="https://cdn.vuetifyjs.com/images/cards/docks.jpg" cover> </v-carousel-item>
-    <v-carousel-item src="../public/public/photo1.jpg" cover></v-carousel-item>
+    <v-carousel-item src=" :\Users\ANTHONY\Downloads\wooden-restaurant-table-full-delicious-burgres-french-fries-classic-burgers-garlic-sauce.jpg" cover> </v-carousel-item>
+    
 </v-carousel>
 
 </v-card>
+</v-container>
 <v-container>
         <v-card class="mx-auto" elevation="24">
             <v-container>
